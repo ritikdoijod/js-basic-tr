@@ -7,7 +7,7 @@ This is a basic JavaScript starter Turborepo with [Next.js](https://nextjs.org/)
 Run the following command:
 
 ```sh
-npx create-turbo@latest --example js-basic
+npx create-turbo@latest --example https://github.com/ritikdoijod/js-basic-tr
 ```
 
 ## What's inside?
