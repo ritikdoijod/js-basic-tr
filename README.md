@@ -1,4 +1,4 @@
-# Turborepo JavaScript Template
+# Turborepo JavaScript Starter Template
 
 This is a basic JavaScript starter Turborepo with [Next.js](https://nextjs.org/).
 
